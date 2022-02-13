@@ -1,2 +1,2 @@
 # serverless-web-app
-Built with Leaflet and Google Firebase to showcase a serverless web app example
+A delivery app built with Leaflet and Google Firebase integration to showcase a serverless web app example.
